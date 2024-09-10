@@ -75,10 +75,10 @@
 export default {
   data() {
     return {
-      loan: 9997000, // The current loan amount
-      rentInPercentage: 3, // The interest rate in percentage
-      market_value: 12500000, // Market value of the property
-      income: 2000000, // Annual income
+      loan: 5000000, // The current loan amount
+      rentInPercentage: 4, // The interest rate in percentage
+      market_value: 6500000, // Market value of the property
+      income: 600000, // Annual income
       years: 50, // Number of years to display
     };
   },
